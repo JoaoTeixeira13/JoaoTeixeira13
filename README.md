@@ -7,7 +7,7 @@
 🧮 &nbsp;Currently learning: **Redux, Socket.IO**.
 
 
-<h3 align="left">Wanna get in touch?</h3>
+<h3 align="left">Let's keep in touch: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joao-teixeira-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaoteixeira" height="30" width="40" />https://www.linkedin.com/in/joao-teixeira-dev/</a>
 </p>
