@@ -2,7 +2,7 @@
 <h1 align="left">João Teixeira</h1>
 <h3 align="left">Hi! I am João, a Berlin based full stack web developer with a background in Fine Arts and Fashion Design.</h3>
 
-🌱 &nbsp; Working on Circe, a plant swap app, **but open for proposals and new challenges**.
+🌱 &nbsp; Working on **Circe**, a plant swap app, **but open for proposals and new challenges**.
 
 🧮 &nbsp;Currently learning: **Redux, Socket.IO**.
 
@@ -22,12 +22,14 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
+     <a href="https://handlebarsjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="handlebars" width="40" height="40"/> </a> &nbsp; 
      <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/jquery.png" alt="jQuery" width="40" height="40"/> </a> &nbsp;
+     <a href="https://socket.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40"/> </a> &nbsp;
+       
 </p>
     
    
 
-<!-- <hr style="color: #7fd9e2;" width= "100%" size="4" noshade> -->
 
 <h3 align="left">BackEnd:</h3>
 <p align="left"> 
@@ -36,7 +38,7 @@
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png" alt="mongodb" width="40" height="40"/> </a> &nbsp;
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
      <a href="https://www.heroku.com/" target="_blank"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/heroku.png" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
