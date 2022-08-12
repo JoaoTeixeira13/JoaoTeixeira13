@@ -44,8 +44,17 @@
 
 <br/>
 
+![](https://komarev.com/ghpvc/?username=JoaoTeixeira13&color=blue&style=plastic&label=👀)
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeixeira13" alt="JoaoTeixeira13" /></p>
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeixeira13" alt="JoaoTeixeira13" /></p> <br/>
+
+<br>
+
+
+
+
 
 
 
