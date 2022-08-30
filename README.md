@@ -9,7 +9,7 @@
 
 <h3 align="left">Let's keep in touch: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/joao-teixeira-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaoteixeira" height="30" width="40" />https://www.linkedin.com/in/joao-teixeira-dev/</a>
+<a href="https://www.linkedin.com/in/joao-teixeira-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaoteixeira" height="30" width="40" /></a>
 </p>
 
 
@@ -50,11 +50,17 @@
 
 ![](https://komarev.com/ghpvc/?username=JoaoTeixeira13&color=blue&style=plastic&label=👀)
 
+ <p><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeixeira13&layout=compact&theme=dark"/></p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeixeira13" alt="JoaoTeixeira13" /></p> <br/>
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeixeira13" alt="JoaoTeixeira13" /></p> <br/>
 
-<br>
+
+
+
+
+
+
 
 
 
