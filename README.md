@@ -50,7 +50,6 @@
 
 ![](https://komarev.com/ghpvc/?username=JoaoTeixeira13&color=blue&style=plastic&label=👀)
 
- <p><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeixeira13&layout=compact&theme=dark"/></p>
 
 
  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeixeira13" alt="JoaoTeixeira13" /></p> <br/>
