@@ -2,7 +2,7 @@
 <h1 align="left">João Teixeira</h1>
 <h3 align="left">Hi! I am João, a Berlin based full stack web developer with a background in Fine Arts and Fashion Design.</h3>
 
-🌱 &nbsp; Working on **Circe**, a plant swap app, **but open for proposals and new challenges**.
+🌱 &nbsp; Working on **Circe**, a plant swap app.
 
 🧮 &nbsp;Currently learning: **TypeScript, React**.
 
