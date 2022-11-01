@@ -45,6 +45,16 @@
      <a href="https://www.npmjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" /></a> &nbsp;
 
 </p>
+    
+   
+
+
+<h3 align="left">Testing:</h3>
+<p align="left">
+     <a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a> &nbsp; 
+    
+</p>
+    
 
 <br/>
 
