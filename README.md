@@ -4,7 +4,7 @@
 
 🌱 &nbsp; Working on **Circe**, a plant swap app.
 
-🧮 &nbsp;Currently learning: **TypeScript, React, Jest**.
+🧮 &nbsp;Currently learning: **TypeScript, Angular, Jest**.
 
 
 <h3 align="left">Let's keep in touch: </h3>
@@ -24,11 +24,12 @@
 </p>
 
 <h3 align="left">FrontEnd:</h3>
-<p align="left">   
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
+<p align="left">    
+    <a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> &nbsp;
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> &nbsp;
+     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
     <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp;
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
      <a href="https://handlebarsjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="handlebars" width="40" height="40"/> </a> &nbsp; 
      <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/jquery.png" alt="jQuery" width="40" height="40"/> </a> &nbsp;
      <a href="https://socket.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40"/> </a> &nbsp;
@@ -45,6 +46,7 @@
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png" alt="mongodb" width="40" height="40"/> </a> &nbsp;
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;
+    <a href="https://firebase.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a> &nbsp;
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
      <a href="https://www.heroku.com/" target="_blank"> <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/heroku.png" alt="heroku" width="40" height="40"/> </a> &nbsp;
      <a href="https://www.npmjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" /></a> &nbsp;
