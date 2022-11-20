@@ -2,14 +2,14 @@
 <h1 align="left">João Teixeira</h1>
 <h3 align="left">Hi! I am João, a Berlin based full stack web developer with a background in Fine Arts and Fashion Design.</h3>
 
-🌱 &nbsp; Working on **Circe**, a plant swap app.
+⚙️ &nbsp;Working as a Software Engineer at <a href="https://www.maibornwolff.de" target="_blank">**MaibornWolff**</a>.
 
 🧮 &nbsp;Currently learning: **TypeScript, Angular, Jest**.
 
 
 <h3 align="left">Let's keep in touch: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/joao-teixeira-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaoteixeira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joao-teixeira-dev/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaoteixeira" height="30" width="40" /></a>
 </p>
 
 
