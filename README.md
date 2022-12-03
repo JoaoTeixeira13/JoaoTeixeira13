@@ -4,7 +4,7 @@
 
 ⚙️ &nbsp;Working as a Software Engineer at <a href="https://www.maibornwolff.de" target="_blank">**MaibornWolff**</a>.
 
-🧮 &nbsp;Currently learning: **TypeScript, Angular, Jest**.
+🧮 &nbsp;Currently learning: **TypeScript, Angular, RxJS, GraphQL, Jest**.
 
 
 <h3 align="left">Let's keep in touch: </h3>
