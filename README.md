@@ -62,7 +62,8 @@
 
 <h3 align="left">Testing:</h3>
 <p align="left">
-     <a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a> &nbsp; 
+     <a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a> &nbsp;
+      <a href="https://vitest.dev/" target="_blank"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/> </a> &nbsp; 
     
 </p>
     
