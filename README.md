@@ -21,6 +21,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
      <a href="https://graphql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a> &nbsp;
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="graphql" width="40" height="40"/> </a> &nbsp;
     
     
 </p>
