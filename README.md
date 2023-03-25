@@ -1,10 +1,10 @@
 
 <h1 align="left">João Teixeira</h1>
-<h3 align="left">Hi! I am João, a Berlin based full stack web developer with a background in Fine Arts and Fashion Design.</h3>
+<h3 align="left">Hi! I am João, a Berlin based software engineer with a background in Fine Arts and Fashion Design.</h3>
 
 ⚙️ &nbsp;Working as a Software Engineer at <a href="https://www.maibornwolff.de" target="_blank">**MaibornWolff**</a>.
 
-🧮 &nbsp;Currently learning: **TypeScript, Angular, RxJS, GraphQL, Jest**.
+🧮 &nbsp;Currently learning: **C#**.
 
 
 <h3 align="left">Let's keep in touch: </h3>
@@ -43,9 +43,9 @@
     
    
 
-
 <h3 align="left">BackEnd:</h3>
 <p align="left"> 
+     <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> &nbsp;
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>  &nbsp;
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;
