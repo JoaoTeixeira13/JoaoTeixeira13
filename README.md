@@ -1,6 +1,6 @@
 
 <h1 align="left">João Teixeira</h1>
-<h3 align="left">Hi! I am João, a Berlin based software engineer with a background in Fine Arts and Fashion Design.</h3>
+<h3 align="left">Hi! I am João, a Berlin based software engineer with a background in Fine Arts and Design.</h3>
 
 ⚙️ &nbsp;Working as a Software Engineer at <a href="https://www.maibornwolff.de" target="_blank">**MaibornWolff**</a>.
 
