@@ -44,7 +44,7 @@
 
 <h3 align="left">DevOps:</h3>
 <p align="left">
-   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;
+   <a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;
    <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> &nbsp;
 </p>
 
