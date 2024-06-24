@@ -14,7 +14,7 @@
 
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left> 
+<p align="left"> 
           <a href="https://docs.oracle.com/en/java/javase/21/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
           <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"  /> </a> 
 &nbsp;
