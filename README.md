@@ -15,7 +15,7 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left> 
-          <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
+          <a href="https://docs.oracle.com/en/java/javase/21/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
           <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"  /> </a> 
 &nbsp;
           <a href="https://graphql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a> &nbsp;    
