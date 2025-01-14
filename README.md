@@ -16,9 +16,9 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
           <a href="https://docs.oracle.com/en/java/javase/21/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
-          <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"  /> </a> 
+           <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"  /> </a> 
 &nbsp;
-          <a href="https://graphql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a> &nbsp;    
+          <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
 </p>
 
 <h3 align="left">FrontEnd:</h3>
@@ -26,9 +26,9 @@
     <a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> &nbsp;
     <a href="https://rxjs.dev" target="_blank"> <img src="https://rxjs.dev/assets/images/favicons/favicon-192x192.png" alt="rxjs" width="40" height="40"/> </a> &nbsp;
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> &nbsp;
-    <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/> </a> &nbsp;
      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
- <a href="https://remix.run/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix" width="40" height="40"/> </a> &nbsp;       
+ <a href="https://remix.run/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix" width="40" height="40"/> </a> &nbsp;  
+ <a href="https://graphql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a> &nbsp;    
 </p>
     
    
@@ -46,6 +46,8 @@
 <p align="left">
    <a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;
    <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> &nbsp;
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> &nbsp;
+
 </p>
 
 <h3 align="left">Testing:</h3>
