@@ -4,7 +4,7 @@
 
 ⚙️ &nbsp;Working as a Software Engineer at <a href="https://www.maibornwolff.de" target="_blank">**MaibornWolff**</a>.
 
-🧮 &nbsp;Currently learning: **Spring Boot**.
+🧮 &nbsp;Currently learning: **how to integrate AI in full stack spplications**.
 
 
 <h3 align="left">Let's keep in touch: </h3>
