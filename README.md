@@ -24,10 +24,11 @@
 <h3 align="left">FrontEnd:</h3>
 <p align="left">    
     <a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> &nbsp;
-    <a href="https://rxjs.dev" target="_blank"> <img src="https://rxjs.dev/assets/images/favicons/favicon-192x192.png" alt="rxjs" width="40" height="40"/> </a> &nbsp;
+    <a href="https://rxjs.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="rxjs" width="40" height="40"/> </a> &nbsp;
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> &nbsp;
      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
- <a href="https://remix.run/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix" width="40" height="40"/> </a> &nbsp;  
+ <a href="https://remix.run/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix" width="40" height="40"/> </a> &nbsp; 
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp;  
  <a href="https://graphql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a> &nbsp;    
 </p>
     
