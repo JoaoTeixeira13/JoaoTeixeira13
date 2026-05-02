@@ -75,9 +75,6 @@
 
 ![](https://komarev.com/ghpvc/?username=JoaoTeixeira13&color=blue&style=plastic&label=👀)
 
- <p><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeixeira13&layout=compact&theme=dark"/></p>
-
-
 <!---
 JoaoTeixeira13/JoaoTeixeira13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
